@@ -130,6 +130,71 @@ Without defined properties, different parts of the app may look inconsistent, ha
 
 A well-documented design system makes the UI/UX more predictable, professional, and trustworthy for users.  
 
+## Project Roles and Responsibilities
+
+Building an Airbnb Clone is a collaborative effort that involves contributions from multiple roles. Each role plays a unique part in ensuring the success of the project, from initial planning and design to development, testing, and deployment.
+
+### Roles and Responsibilities
+
+- **Project Manager**  
+  - Oversees the overall progress of the project.  
+  - Coordinates between different teams to ensure deadlines are met.  
+  - Manages resources, risks, and project timelines.  
+  - Ensures that project goals align with business objectives.  
+
+- **Frontend Developers**  
+  - Implement the user interface using HTML, CSS, JavaScript, and frameworks.  
+  - Translate design mockups (from Figma) into responsive, interactive pages.  
+  - Ensure a consistent user experience across devices and browsers.  
+  - Optimize performance and accessibility on the client side.  
+
+- **Backend Developers**  
+  - Build and maintain the server-side logic using Django.  
+  - Design and manage the database (e.g., MariaDB/PostgreSQL) to handle users, bookings, and listings.  
+  - Implement APIs to connect the frontend with the backend.  
+  - Ensure data security, authentication, and efficient query handling.  
+
+- **Designers (UI/UX)**  
+  - Create mockups and prototypes in Figma.  
+  - Define the color palette, typography, and overall visual identity.  
+  - Focus on user flows, navigation, and usability.  
+  - Ensure the application is visually appealing and intuitive.  
+
+- **QA/Testers**  
+  - Write and execute test cases for features and workflows.  
+  - Perform manual and automated testing to identify bugs.  
+  - Validate that the system meets requirements and performs under load.  
+  - Ensure the application is reliable before deployment.  
+
+- **DevOps Engineers**  
+  - Set up and manage CI/CD pipelines.  
+  - Configure cloud environments (AWS EC2, S3, RDS).  
+  - Monitor application performance and scalability.  
+  - Ensure smooth deployments and rollback strategies.  
+
+- **Product Owner**  
+  - Defines the product vision and key features.  
+  - Prioritizes the product backlog and ensures alignment with user needs.  
+  - Acts as the liaison between stakeholders and the development team.  
+  - Provides feedback on deliverables to ensure they meet business goals.  
+
+- **Scrum Master**  
+  - Facilitates Agile ceremonies (sprint planning, stand-ups, retrospectives).  
+  - Removes blockers that slow down the team.  
+  - Coaches the team in Agile principles and practices.  
+  - Ensures continuous improvement in workflows.  
+
+---
+
+### Contribution to Project Success
+
+Each role contributes to the success of the Airbnb Clone by focusing on their area of expertise while collaborating closely with other team members. Strong coordination between these roles ensures:  
+- Efficient development and deployment.  
+- High-quality user experience.  
+- On-time delivery of project milestones.  
+- A scalable and maintainable application that meets user needs.  
+```
+
 ## Conclusion
 
 This **Airbnb Clone** is more than a coding exercise; it is a demonstration of full-cycle development — from backend logic and database design to frontend interactivity and cloud deployment. By mirroring real-world product features, the project highlights skills in software engineering, problem-solving, and delivering scalable web applications.
