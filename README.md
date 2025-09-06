@@ -201,6 +201,19 @@ Building an Airbnb Clone is a collaborative effort that involves contributions f
   - Ensures continuous improvement in workflows.  
 
 ---
+## Team Roles
+
+Successful project development requires collaboration among different roles, each contributing unique expertise. Below are the key roles and their responsibilities:
+
+- **Project Manager (PM):** Oversees the project, manages timelines, resources, and communication between team members to ensure the project meets its goals.  
+- **Product Owner (PO):** Defines the product vision and prioritizes features to align the project with user needs and business objectives.  
+- **Backend Developer:** Builds and maintains the server-side logic, APIs, and integrations with databases and external services.  
+- **Frontend Developer:** Develops the user interface, ensuring responsiveness, accessibility, and a seamless user experience.  
+- **Database Administrator (DBA):** Manages the database structure, ensures data integrity, optimizes queries, and handles backups and recovery.  
+- **UI/UX Designer:** Creates wireframes, mockups, and prototypes to ensure the application is visually appealing and user-friendly.  
+- **QA Engineer / Tester:** Tests the application for bugs, performance issues, and usability problems to ensure high quality before release.  
+- **DevOps Engineer:** Automates deployment, monitors infrastructure, and ensures smooth CI/CD pipelines for reliable delivery.  
+- **Scrum Master:** Facilitates Agile practices, removes blockers, and ensures smooth communication and collaboration among team members.  
 
 ### Contribution to Project Success
 
