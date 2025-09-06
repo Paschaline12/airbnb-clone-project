@@ -24,6 +24,17 @@ The Airbnb Clone is built using a modern full-stack approach:
 - **Developer Tools:** [Visual Studio Code, Git Bash, Docker (optional)] – streamlining the development process.  
 
 ---
+## Technology Stack
+
+This project is built using a modern technology stack that ensures scalability, reliability, and maintainability. Below are the key technologies and their roles:
+
+- **Django:** A high-level Python web framework used to build the backend logic, handle requests, and manage data through models and views.  
+- **PostgreSQL:** A powerful open-source relational database system used for storing, querying, and managing structured project data.  
+- **GraphQL:** A query language for APIs that allows clients to request only the data they need, making communication between the frontend and backend more efficient.  
+- **HTML5 & CSS3:** Provide the structure and styling of the application’s user interface.  
+- **JavaScript (ES6+):** Adds interactivity and dynamic behavior to the frontend, improving user experience.  
+- **Docker:** Used to containerize the application, ensuring consistency across development, testing, and production environments.  
+- **Git & GitHub:** Version control and collaboration tools to track code changes and manage contributions from the development team.  
 
 ## UI/UX Design Planning
 
