@@ -11,6 +11,96 @@ The primary objectives of the project are:
 This project demonstrates how a complex system like Airbnb can be broken down into smaller, manageable components, developed, and integrated into a functional product.  
 
 ---
+## Feature Breakdown
+
+The project includes several core features designed to provide a smooth user experience and efficient management of the platform:
+
+- **User Management**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access and allows users to interact with the system based on their roles (e.g., admin, host, or customer).  
+
+- **Property Management**  
+  Allows property owners (hosts) to add, update, and manage property listings with details such as descriptions, pricing, and availability. This feature makes it easy to showcase properties and keep information up to date.  
+
+- **Booking System**  
+  Enables users to search, select, and book available properties for specific dates. The system manages reservations, prevents double-bookings, and provides confirmation to both guests and property owners.  
+
+- **Reviews & Ratings**  
+  Lets users leave feedback and ratings on properties they have stayed in. This contributes to trust and transparency within the platform, helping future users make informed decisions.  
+
+- **Payment Processing**  
+  Provides secure handling of payments for bookings, supporting different payment statuses (paid, pending, failed). This feature ensures a smooth financial transaction process between customers and property owners.  
+## Feature Breakdown
+
+The project includes several core features designed to provide a smooth user experience and efficient management of the platform:
+
+- **User Management**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access and allows users to interact with the system based on their roles (e.g., admin, host, or customer).  
+
+- **Property Management**  
+  Allows property owners (hosts) to add, update, and manage property listings with details such as descriptions, pricing, and availability. This feature makes it easy to showcase properties and keep information up to date.  
+
+- **Booking System**  
+  Enables users to search, select, and book available properties for specific dates. The system manages reservations, prevents double-bookings, and provides confirmation to both guests and property owners.  
+
+- **Reviews & Ratings**  
+  Lets users leave feedback and ratings on properties they have stayed in. This contributes to trust and transparency within the platform, helping future users make informed decisions.  
+
+- **Payment Processing**  
+  Provides secure handling of payments for bookings, supporting different payment statuses (paid, pending, failed). This feature ensures a smooth financial transaction process between customers and property owners.  
+## Feature Breakdown
+
+The project includes several core features designed to provide a smooth user experience and efficient management of the platform:
+
+- **User Management**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access and allows users to interact with the system based on their roles (e.g., admin, host, or customer).  
+
+- **Property Management**  
+  Allows property owners (hosts) to add, update, and manage property listings with details such as descriptions, pricing, and availability. This feature makes it easy to showcase properties and keep information up to date.  
+
+- **Booking System**  
+  Enables users to search, select, and book available properties for specific dates. The system manages reservations, prevents double-bookings, and provides confirmation to both guests and property owners.  
+
+- **Reviews & Ratings**  
+  Lets users leave feedback and ratings on properties they have stayed in. This contributes to trust and transparency within the platform, helping future users make informed decisions.  
+
+- **Payment Processing**  
+  Provides secure handling of payments for bookings, supporting different payment statuses (paid, pending, failed). This feature ensures a smooth financial transaction process between customers and property owners.  
+## Feature Breakdown
+
+The project includes several core features designed to provide a smooth user experience and efficient management of the platform:
+
+- **User Management**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access and allows users to interact with the system based on their roles (e.g., admin, host, or customer).  
+
+- **Property Management**  
+  Allows property owners (hosts) to add, update, and manage property listings with details such as descriptions, pricing, and availability. This feature makes it easy to showcase properties and keep information up to date.  
+
+- **Booking System**  
+  Enables users to search, select, and book available properties for specific dates. The system manages reservations, prevents double-bookings, and provides confirmation to both guests and property owners.  
+
+- **Reviews & Ratings**  
+  Lets users leave feedback and ratings on properties they have stayed in. This contributes to trust and transparency within the platform, helping future users make informed decisions.  
+
+- **Payment Processing**  
+  Provides secure handling of payments for bookings, supporting different payment statuses (paid, pending, failed). This feature ensures a smooth financial transaction process between customers and property owners.  
+## Feature Breakdown
+
+The project includes several core features designed to provide a smooth user experience and efficient management of the platform:
+
+- **User Management**  
+  Handles user registration, authentication, and profile management. This feature ensures secure access and allows users to interact with the system based on their roles (e.g., admin, host, or customer).  
+
+- **Property Management**  
+  Allows property owners (hosts) to add, update, and manage property listings with details such as descriptions, pricing, and availability. This feature makes it easy to showcase properties and keep information up to date.  
+
+- **Booking System**  
+  Enables users to search, select, and book available properties for specific dates. The system manages reservations, prevents double-bookings, and provides confirmation to both guests and property owners.  
+
+- **Reviews & Ratings**  
+  Lets users leave feedback and ratings on properties they have stayed in. This contributes to trust and transparency within the platform, helping future users make informed decisions.  
+
+- **Payment Processing**  
+  Provides secure handling of payments for bookings, supporting different payment statuses (paid, pending, failed). This feature ensures a smooth financial transaction process between customers and property owners.  
 
 ## Tech Stack
 
