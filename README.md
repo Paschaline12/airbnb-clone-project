@@ -62,6 +62,22 @@ A **user-friendly design** is critical in a booking system because it directly a
 Designing an Airbnb Clone requires careful consideration of **user experience (UX)** and **user interface (UI)** to ensure that the application is intuitive, visually appealing, and efficient to use. The design goals focus on simplicity, clarity, and accessibility so both guests and hosts can interact with the platform seamlessly.  
 
 ---
+## CI/CD Pipeline
+
+A **CI/CD pipeline** (Continuous Integration/Continuous Deployment) is a set of automated processes that help developers build, test, and deploy applications more efficiently.  
+
+- **Continuous Integration (CI):** Ensures that every code change is automatically tested and integrated into the main branch to detect issues early.  
+- **Continuous Deployment (CD):** Automates the release process so that new features, bug fixes, and updates can be delivered quickly and reliably.  
+
+### Importance
+CI/CD pipelines reduce human error, speed up the development cycle, improve collaboration, and ensure high-quality software delivery. They allow teams to release updates frequently and confidently.  
+
+### Tools Commonly Used
+- **GitHub Actions** – Automates workflows directly within GitHub.  
+- **Jenkins** – Open-source automation server for building and deploying applications.  
+- **Docker** – Ensures consistency by packaging applications into containers.  
+- **Kubernetes** – Orchestrates containerized applications in production.  
+- **AWS CodePipeline / Azure DevOps / GitLab CI** – Cloud-based CI/CD solutions for scalable deployments.  
 
 ### Design Goals
 - **Clarity:** Provide a clean layout with clear navigation, minimizing user confusion.  
