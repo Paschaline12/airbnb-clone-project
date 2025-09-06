@@ -209,6 +209,30 @@ A **user-friendly design** is critical in a booking system because it directly a
 ## UI/UX Design Planning
 
 Designing an Airbnb Clone requires careful consideration of **user experience (UX)** and **user interface (UI)** to ensure that the application is intuitive, visually appealing, and efficient to use. The design goals focus on simplicity, clarity, and accessibility so both guests and hosts can interact with the platform seamlessly.  
+## API Security
+
+To ensure the platform is safe and trustworthy, several security measures will be implemented in the API:
+
+- **Authentication**  
+  Only registered and verified users will be able to access the system using secure login methods (e.g., JWT or OAuth). This prevents unauthorized access and protects user accounts.  
+
+- **Authorization**  
+  Users will have role-based access control (e.g., admin, host, customer), ensuring that they can only perform actions allowed by their role. This protects sensitive data and prevents misuse of the system.  
+
+- **Rate Limiting**  
+  Limits the number of requests a user or client can make within a given time frame. This prevents abuse of the API, such as denial-of-service (DoS) attacks or excessive resource usage.  
+
+- **Data Encryption (in transit and at rest)**  
+  All sensitive data, such as passwords and payment details, will be encrypted using strong cryptographic methods (e.g., HTTPS, TLS). This ensures that user information and financial transactions remain private and secure.  
+
+- **Input Validation & Sanitization**  
+  All input data will be validated and sanitized to prevent injection attacks (e.g., SQL Injection, XSS). This protects the integrity of the database and application.  
+
+### Why Security is Crucial
+- **Protecting User Data:** Ensures that personal and account information is not exposed to malicious actors.  
+- **Securing Payments:** Prevents fraud and guarantees that financial transactions remain safe and trustworthy.  
+- **Maintaining Trust:** A secure API builds user confidence and compliance with regulations such as GDPR or PCI-DSS.  
+- **System Reliability:** Security measures protect the platform from attacks that could lead to downtime or data loss.  
 
 ---
 ## CI/CD Pipeline
