@@ -22,6 +22,54 @@ The Airbnb Clone is built using a modern full-stack approach:
 - **Version Control:** [Git & GitHub] – enabling collaboration, branching, and tracking project evolution.  
 - **Cloud & Deployment:** [AWS (EC2, S3, RDS)] – hosting the application, managing static files, and ensuring availability.  
 - **Developer Tools:** [Visual Studio Code, Git Bash, Docker (optional)] – streamlining the development process.  
+## Database Design
+
+The database is structured to support the core functionality of the project. The main entities and their fields are outlined below:
+
+### Entities & Fields
+- **Users**
+  - `id` (Primary Key)
+  - `name`
+  - `email`
+  - `password`
+  - `role` (e.g., admin, customer, host)
+
+- **Properties**
+  - `id` (Primary Key)
+  - `title`
+  - `description`
+  - `location`
+  - `price_per_night`
+  - `owner_id` (Foreign Key → Users)
+
+- **Bookings**
+  - `id` (Primary Key)
+  - `user_id` (Foreign Key → Users)
+  - `property_id` (Foreign Key → Properties)
+  - `check_in_date`
+  - `check_out_date`
+  - `status` (e.g., confirmed, pending, cancelled)
+
+- **Reviews**
+  - `id` (Primary Key)
+  - `user_id` (Foreign Key → Users)
+  - `property_id` (Foreign Key → Properties)
+  - `rating` (1–5)
+  - `comment`
+
+- **Payments**
+  - `id` (Primary Key)
+  - `booking_id` (Foreign Key → Bookings)
+  - `amount`
+  - `payment_date`
+  - `status` (e.g., paid, pending, failed)
+
+### Relationships
+- A **User** can own multiple **Properties**.  
+- A **User** can make multiple **Bookings**, but each **Booking** belongs to one **Property**.  
+- A **Booking** is linked to one **Payment**, but a **Payment** belongs to only one **Booking**.  
+- A **User** can leave multiple **Reviews** for different **Properties**.  
+- A **Property** can have multiple **Reviews** and **Bookings**.  
 
 ---
 ## Technology Stack
